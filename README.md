@@ -1,2 +1,2 @@
 # index
-building global unity hub with SaveNatureFREE currently hosted on Ning at http://savetheworldfree.ning.com
+Was building a global unity hub with SaveNatureFREE currently at SaveNatureFree.org
